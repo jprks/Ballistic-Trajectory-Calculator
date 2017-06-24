@@ -1,4 +1,4 @@
-% Title: Projectile Motion Analysis Program
+% Title: Ballisitic Trajectory Calculator
 % Author: James Emerson Parkus
 % Date: June 23rd, 2017
 % Purpose: Take initial conditions of a projectile motion problem and
